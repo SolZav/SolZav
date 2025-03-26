@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
+## My name is ☀️Sol☀️ 
+### Things you should know about me:
+- I'm always caffeinated ☕
+- I love the outdoors 🌄
+- I'm always talking about my cats 🐈‍⬛🐈
 
-<!--
-**SolZav/SolZav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Important thigs you should know about me:
+- I'm studing Graphic Information Technology, focused on Web Development
+- Currently learning HTML, CSS, Python and SQL
+- I have some experiece on Manual QA Testing and I want to grow in that field 
 
-Here are some ideas to get you started:
+[My Linkedin](https://www.linkedin.com/in/sol-llinas-martinez-94732926a/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![cat-drinking-coffee](https://github.com/user-attachments/assets/0925b78d-f52a-4f63-845b-a201fe49124b)
