@@ -21,8 +21,11 @@
 [My Behance](https://www.behance.net/mariallinas2)
 
 ### Some of my projects:
-[Copper Canopy Aerial Website Redesign](https://solzav.github.io/Copper-Canopy-Aerial-Website-Redesign/)
-[Farmer Market Remastered](https://solzav.github.io/Farmer-Market-Remastered/)
-[Vangaard Assignment](https://solzav.github.io/vangaard-assignment/)
+[<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 250"><img width="180" height="150" alt="canopy-thumbnail-02" src="https://github.com/user-attachments/assets/2cacb0be-e820-4be3-af00-107d800f3add" />](https://solzav.github.io/Copper-Canopy-Aerial-Website-Redesign/)
+[<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 250"><img width="180" height="150" alt="farmer-thumbnail-03" src="https://github.com/user-attachments/assets/a5477e17-b774-42a2-af5d-7703b34d7b3d" />](https://solzav.github.io/Farmer-Market-Remastered/)
+[<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 250"><img width="180" height="150" alt="vangaar-thumbnail-01" src="https://github.com/user-attachments/assets/75f5868d-263e-429f-9038-8708a89e24e8" />](https://solzav.github.io/vangaard-assignment/)
 
 ![cat-drinking-coffee](https://github.com/user-attachments/assets/0925b78d-f52a-4f63-845b-a201fe49124b)
