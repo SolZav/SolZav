@@ -1,7 +1,9 @@
 # Hi there 👋
 ## My name is 
-<img width="245" height="150" alt="Stacked RGB" src="https://github.com/user-attachments/assets/1d8b881d-166f-4ad6-a284-f16d5b222875" />
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 221.33 135.49">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 300 250">
+<img width="180" height="150" alt="logo" src="https://github.com/user-attachments/assets/03ab7db8-1274-4ac2-af69-07911670f1eb" />
+
  
 
 ### Things you should know about me:
