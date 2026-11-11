@@ -19,7 +19,9 @@
 [My Behance](https://www.behance.net/mariallinas2)
 
 ### My skills:
-
+Coding languages (HTML, CSS, JavaScript, Java, Python, SQL), Adobe Creative Cloud, Adobe Illustrator, Adobe
+InDesign, Adobe Photoshop, Adobe After Effects, Adobe Premiere Pro, heuristic evaluation, user research,
+empathy and journey mapping, wireframing, prototyping.
 
 ### Some of my projects:
 [<?xml version="1.0" encoding="UTF-8"?>
